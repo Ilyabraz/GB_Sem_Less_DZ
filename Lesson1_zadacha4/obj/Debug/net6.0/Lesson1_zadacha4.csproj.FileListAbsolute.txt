@@ -1,0 +1,15 @@
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less_DZ\Lesson1_zadacha4\bin\Debug\net6.0\Lesson1_zadacha4.exe
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less_DZ\Lesson1_zadacha4\bin\Debug\net6.0\Lesson1_zadacha4.deps.json
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less_DZ\Lesson1_zadacha4\bin\Debug\net6.0\Lesson1_zadacha4.runtimeconfig.json
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less_DZ\Lesson1_zadacha4\bin\Debug\net6.0\Lesson1_zadacha4.dll
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less_DZ\Lesson1_zadacha4\bin\Debug\net6.0\Lesson1_zadacha4.pdb
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less_DZ\Lesson1_zadacha4\obj\Debug\net6.0\Lesson1_zadacha4.csproj.AssemblyReference.cache
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less_DZ\Lesson1_zadacha4\obj\Debug\net6.0\Lesson1_zadacha4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less_DZ\Lesson1_zadacha4\obj\Debug\net6.0\Lesson1_zadacha4.AssemblyInfoInputs.cache
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less_DZ\Lesson1_zadacha4\obj\Debug\net6.0\Lesson1_zadacha4.AssemblyInfo.cs
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less_DZ\Lesson1_zadacha4\obj\Debug\net6.0\Lesson1_zadacha4.csproj.CoreCompileInputs.cache
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less_DZ\Lesson1_zadacha4\obj\Debug\net6.0\Lesson1_zadacha4.dll
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less_DZ\Lesson1_zadacha4\obj\Debug\net6.0\refint\Lesson1_zadacha4.dll
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less_DZ\Lesson1_zadacha4\obj\Debug\net6.0\Lesson1_zadacha4.pdb
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less_DZ\Lesson1_zadacha4\obj\Debug\net6.0\Lesson1_zadacha4.genruntimeconfig.cache
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less_DZ\Lesson1_zadacha4\obj\Debug\net6.0\ref\Lesson1_zadacha4.dll

@@ -1,0 +1,15 @@
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less_DZ\Lesson1_zadacha8\obj\Debug\net6.0\Lesson1_zadacha8.csproj.AssemblyReference.cache
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less_DZ\Lesson1_zadacha8\obj\Debug\net6.0\Lesson1_zadacha8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less_DZ\Lesson1_zadacha8\obj\Debug\net6.0\Lesson1_zadacha8.AssemblyInfoInputs.cache
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less_DZ\Lesson1_zadacha8\obj\Debug\net6.0\Lesson1_zadacha8.AssemblyInfo.cs
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less_DZ\Lesson1_zadacha8\obj\Debug\net6.0\Lesson1_zadacha8.csproj.CoreCompileInputs.cache
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less_DZ\Lesson1_zadacha8\bin\Debug\net6.0\Lesson1_zadacha8.exe
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less_DZ\Lesson1_zadacha8\bin\Debug\net6.0\Lesson1_zadacha8.deps.json
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less_DZ\Lesson1_zadacha8\bin\Debug\net6.0\Lesson1_zadacha8.runtimeconfig.json
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less_DZ\Lesson1_zadacha8\bin\Debug\net6.0\Lesson1_zadacha8.dll
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less_DZ\Lesson1_zadacha8\bin\Debug\net6.0\Lesson1_zadacha8.pdb
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less_DZ\Lesson1_zadacha8\obj\Debug\net6.0\Lesson1_zadacha8.dll
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less_DZ\Lesson1_zadacha8\obj\Debug\net6.0\refint\Lesson1_zadacha8.dll
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less_DZ\Lesson1_zadacha8\obj\Debug\net6.0\Lesson1_zadacha8.pdb
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less_DZ\Lesson1_zadacha8\obj\Debug\net6.0\Lesson1_zadacha8.genruntimeconfig.cache
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less_DZ\Lesson1_zadacha8\obj\Debug\net6.0\ref\Lesson1_zadacha8.dll
